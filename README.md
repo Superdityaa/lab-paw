@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## How To Use This Project?
 
-- Install composer using command "Composer Install"
+- Install composer using command "composer install"
 - Change directory .env.example to .env
 - Run command "php artisan key:generate"
 - Setup your env
